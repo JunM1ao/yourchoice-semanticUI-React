@@ -1,0 +1,59 @@
+#top {
+  margin-top: 0.5em;
+  text-align: center;
+}
+
+#top-icons {
+  margin-top: 0.6em;
+  margin-left: 3em;
+}
+
+#shopping-cart {
+  text-align: center;
+  margin: 1em 3em 1em 3em;
+}
+
+#user-menu {
+  padding: 1em 1em 1em 1em;
+}
+
+.ui.borderless.segment {
+  box-shadow: none;
+  border: none;
+  margin-top: -1em;
+}
+
+.newsletter-background {
+  margin-top: 2em;
+  height: 300px;
+  background: url("https://image01.oneplus.net/shop/201909/05/538/9e5a6260f4efa441deebedaac34ae13e.jpg") center center;
+  background-origin: padding-box;
+  background-size: cover;
+}
+
+.phone-background {
+  margin-top: 1em;
+  height: 680px;
+  background-size: cover;
+  background: url("https://image01.oneplus.net/shop/201909/26/1-M00-0A-75-rB8LB12MYfyAdyJTAASa38KrhR0280.jpg") center center;
+}
+
+.tmobile {
+  margin-top: 1em;
+  height: 680px;
+  background-size: cover;
+  background: url("https://image01.oneplus.net/shop/202002/19/1-M00-11-17-rB8LB15NJL2ASXcCAAKQDCtTjJE164.jpg") center center;
+}
+
+.spaced {
+  padding-top: 2em;
+}
+
+.large-text {
+  font-size: 1.5em;
+}
+
+.textbox {
+  transform: translate(5%, 50%)
+}
+
